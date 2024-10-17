@@ -1,7 +1,7 @@
 # GetMutex: Bulletproof Concurrency for Dart
 
 [![Pub Version](https://img.shields.io/pub/v/get_mutex.svg)](https://pub.dev/packages/get_mutex)
-[![codecov](https://codecov.io/github/jonataslaw/get_mutex/graph/badge.svg?token=5KP04NZWY5)](https://codecov.io/github/jonataslaw/get_mutex)
+[![codecov](https://codecov.io/gh/jonataslaw/get_mutex/graph/badge.svg?token=50GQ1E62P4)](https://codecov.io/gh/jonataslaw/get_mutex)
 
 🔒 **GetMutex** is your solution for robust, efficient, and deadlock-free synchronization in Dart. Concurrency made simple, without sacrificing performance.
 
