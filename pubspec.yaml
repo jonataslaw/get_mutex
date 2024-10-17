@@ -1,0 +1,13 @@
+name: get_mutex
+description: Robust, efficient, and deadlock-free synchronization in Dart. Concurrency made simple, without sacrificing performance.
+version: 1.0.0
+repository: https://github.com/jonataslaw/get_mutex
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
